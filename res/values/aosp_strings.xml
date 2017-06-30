@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2017 The JDCTeam
+     Copyright (C) 2017 QwarkOs
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -30,7 +30,7 @@
 
     <!-- Custom Settings -->   
     <!-- Dashboard -->
-    <string name="header_category_custom">AOSP Settings</string>
+    <string name="header_category_custom">QwarkOs Extras</string>
     <string name="buttons">Buttons</string>
     <string name="supersu_title">SuperSU</string>
     <string name="supersu_summary">Manage root permissions</string>
@@ -61,9 +61,6 @@
     <string name="expanded_desktop_style_description">Choose a default expanded desktop style</string>
     <string name="expanded_desktop_title">Expanded desktop options</string>
 
-    <!-- JDCTeam Google+ Community shortcut -->
-    <string name="community">JDCTeam on Google+</string>
-    <string name="community_summary">Join our official community and keep in touch with us</string>
 
      <!-- Volume button track change -->
     <string name="volbtn_music_controls_title">Music control</string>
